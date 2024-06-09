@@ -1,0 +1,11 @@
+name: custom_countries_world_map
+description: custom world map with countries
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  quantity: ^3.0.0
